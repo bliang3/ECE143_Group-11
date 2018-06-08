@@ -1,0 +1,211 @@
+{
+    "axes": [
+        {
+            "scale": "x",
+            "type": "x"
+        },
+        {
+            "scale": "y",
+            "type": "y",
+            "grid": true
+        }
+    ],
+      "title": {
+          "text": {
+              "signal": "Turbidity, NTU"
+          }
+      },
+    "data": [
+        {
+            "name": "table",
+            "values": [
+                {
+                    "x": "2010",
+                    "y": 14.4
+                },
+                {
+                    "x": "2011",
+                    "y": 12.9
+                },
+                {
+                    "x": "2012",
+                    "y": 15.9
+                },
+                {
+                    "x": "2013",
+                    "y": 13.45
+                },
+                {
+                    "x": "2014",
+                    "y": 16.067
+                },
+                {
+                    "x": "2015",
+                    "y": 19.72
+                },
+                {
+                    "x": "2016",
+                    "y": 11.08
+                }
+            ]
+        },
+        {
+            "name": "x_label",
+            "values": [
+                {
+                    "label": "Year"
+                }
+            ]
+        },
+        {
+            "name": "y_label",
+            "values": [
+                {
+                    "label":"Temperature, Celsius"
+                }
+            ]
+        }
+    ],
+    "height": 200,
+    "marks": [
+        {
+            "from": {
+                "data": "table"
+            },
+            "properties": {
+                "enter": {
+                    "width": {
+                        "band": true,
+                        "offset": -7,
+                        "scale": "x"
+                    },
+                    "x": {
+                        "field": "data.x",
+                        "scale": "x"
+                    },
+                    "y": {
+                        "field": "data.y",
+                        "scale": "y"
+                    },
+                    "y2": {
+                        "scale": "y",
+                        "value": 0
+                    }
+                },
+                "update": {
+                    "fill": {
+                        "value": "#2a3140"
+                    }
+                }
+            },
+            "type": "rect"
+        },
+        {
+            "from": {
+                "data": "x_label"
+            },
+            "name": "x_label",
+            "properties": {
+                "enter": {
+                    "align": {
+                        "value": "center"
+                    },
+                    "baseline": {
+                        "value": "middle"
+                    },
+                    "dy": {
+                        "value": 35
+                    },
+                    "fill": {
+                        "value": "#001"
+                    },
+                    "font": {
+                        "value": "Helvetica Neue"
+                    },
+                    "fontSize": {
+                        "value": 14
+                    },
+                    "text": {
+                        "field": "data.label"
+                    },
+                    "x": {
+                        "value": 300.0
+                    },
+                    "y": {
+                        "value": 200
+                    }
+                }
+            },
+            "type": "text"
+        },
+        {
+            "from": {
+                "data": "y_label"
+            },
+            "name": "y_label",
+            "properties": {
+                "enter": {
+                    "align": {
+                        "value": "center"
+                    },
+                    "angle": {
+                        "value": -90
+                    },
+                    "baseline": {
+                        "value": "middle"
+                    },
+                    "dy": {
+                        "value": -45
+                    },
+                    "fill": {
+                        "value": "#000"
+                    },
+                    "font": {
+                        "value": "Helvetica Neue"
+                    },
+                    "fontSize": {
+                        "value": 20
+                    },
+                    "text": {
+                        "field": "data.label"
+                    },
+                    "x": {
+                        "value": 0
+                    },
+                    "y": {
+                        "value": 50
+                    }
+                }
+            },
+            "type": "text"
+        }
+    ],
+    "padding": {
+        "bottom": 150,
+        "left": 60,
+        "right": 20,
+        "top": 50
+    },
+    "scales": [
+        {
+            "domain": {
+                "data": "table",
+                "field": "data.x"
+            },
+            "name": "x",
+            "range": "width",
+            "type": "ordinal"
+        },
+        {
+            "domain": {
+                "data": "table",
+                "field": "data.y"
+            },
+            "name": "y",
+            "nice": true,
+            "range": "height"
+        }
+    ],
+    "viewport": null,
+    "width": 400
+}
