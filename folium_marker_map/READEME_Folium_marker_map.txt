@@ -1,1 +1,22 @@
 
+Folium_marker_map has 4 folders
+
+oxy_json / temp_json / turbidity_json / ph_json
+
+each of folder has jupyter notebook file and original file
+
+oxy_json/1_oxy_folium_map_new.ipynb
+temp_json/1_temp_folium_map.ipynb
+turbidity_json/1_tb_folium_map.ipynb
+ph_json/1_ph_folium_map.ipynb
+
+also each of folder has result map related each water parameter
+
+final_temp_map.html
+final_turbidity_map.html
+final_oxy_map.html
+final_ph_map.html
+
+ca-counties.geojson file creates the border line of california countyes
+
+all the json files are including the anual data of certain county
