@@ -1,0 +1,414 @@
+county,Year,median_ph_Result
+Alameda,2010,8.065000000000001
+Alameda,2011,7.970000000000001
+Alameda,2012,7.64
+Alameda,2013,8.1
+Alameda,2014,7.93
+Alameda,2015,7.07
+Alameda,2016,8.01
+Alameda,2017,7.53
+Alpine,2010,7.8
+Alpine,2011,7.9
+Alpine,2012,8.129999999999999
+Alpine,2013,8.1
+Alpine,2014,7.77
+Alpine,2015,7.6850000000000005
+Alpine,2016,7.545
+Alpine,2017,7.833333
+Amador,2010,8.16
+Amador,2011,7.71
+Amador,2012,7.95
+Amador,2013,7.87
+Amador,2014,7.675000000000001
+Amador,2015,7.0
+Amador,2016,6.8
+Amador,2017,7.7
+Butte,2010,7.54
+Butte,2011,7.87
+Butte,2012,7.755
+Butte,2013,7.7
+Butte,2014,7.635
+Butte,2015,7.5
+Butte,2016,7.29
+Calaveras,2010,7.79
+Calaveras,2011,7.73
+Calaveras,2012,7.63
+Calaveras,2013,7.65
+Calaveras,2014,7.47
+Calaveras,2015,8.4
+Colusa,2010,7.865
+Colusa,2011,7.98
+Colusa,2012,7.9
+Colusa,2013,7.835
+Colusa,2014,7.91
+Colusa,2015,8.01
+Colusa,2016,7.69
+Contra Costa,2010,7.779999999999999
+Contra Costa,2011,7.7
+Contra Costa,2012,7.8
+Contra Costa,2013,7.92
+Contra Costa,2014,7.665
+Contra Costa,2015,7.33
+Contra Costa,2016,7.4
+Contra Costa,2017,7.555
+Del Norte,2010,8.024999999999999
+Del Norte,2011,8.15
+Del Norte,2012,7.99
+Del Norte,2013,7.93
+Del Norte,2014,7.85
+Del Norte,2015,7.595
+Del Norte,2016,8.004999999999999
+El Dorado,2010,7.495
+El Dorado,2011,7.640000000000001
+El Dorado,2012,8.280000000000001
+El Dorado,2013,7.675
+El Dorado,2014,7.59
+El Dorado,2015,7.36
+El Dorado,2016,7.2
+El Dorado,2017,7.6
+Fresno,2010,7.640000000000001
+Fresno,2011,7.05
+Fresno,2012,6.99
+Fresno,2013,7.619999999999999
+Fresno,2014,7.605
+Fresno,2015,8.32
+Fresno,2016,7.87
+Glenn,2010,7.74
+Glenn,2011,7.859999999999999
+Glenn,2012,7.800000000000001
+Glenn,2013,7.9
+Glenn,2014,7.51
+Glenn,2015,8.155
+Glenn,2016,7.88
+Glenn,2017,7.97
+Humboldt,2010,8.2
+Humboldt,2011,8.135000000000002
+Humboldt,2012,8.15
+Humboldt,2013,8.184999999999999
+Humboldt,2014,8.075
+Humboldt,2015,8.0
+Humboldt,2016,8.11
+Imperial,2010,7.99
+Imperial,2011,7.615
+Imperial,2012,7.865
+Imperial,2013,7.775
+Imperial,2014,7.54
+Imperial,2015,7.87
+Inyo,2010,7.72
+Inyo,2011,8.25
+Inyo,2012,7.47
+Inyo,2013,8.1
+Inyo,2014,7.55
+Inyo,2015,7.6
+Inyo,2016,7.7
+Kern,2010,7.640000000000001
+Kern,2011,7.734999999999999
+Kern,2012,7.965
+Kern,2013,8.07
+Kern,2014,8.165
+Kings,2010,7.205
+Kings,2011,7.095
+Kings,2012,7.22
+Kings,2013,7.66
+Kings,2014,8.695
+Lake,2010,7.75
+Lake,2011,8.3
+Lake,2012,7.61
+Lake,2013,7.68
+Lake,2014,7.470000000000001
+Lake,2015,7.63
+Lake,2016,7.45
+Lake,2017,7.279999999999999
+Lassen,2010,8.3
+Lassen,2011,8.375
+Lassen,2012,8.469999999999999
+Lassen,2013,8.5
+Lassen,2014,8.4
+Lassen,2015,7.55
+Lassen,2016,7.9
+Los Angeles,2010,8.02
+Los Angeles,2011,7.75
+Los Angeles,2012,7.94
+Los Angeles,2013,8.19
+Los Angeles,2014,8.02
+Los Angeles,2015,7.8
+Los Angeles,2016,8.1
+Los Angeles,2017,7.655
+Madera,2010,7.3
+Madera,2011,7.0
+Madera,2012,7.0
+Madera,2013,7.8
+Madera,2014,8.07
+Madera,2015,8.11
+Madera,2016,7.58
+Marin,2010,7.68
+Marin,2011,6.4
+Marin,2012,7.93
+Marin,2013,8.04
+Marin,2014,7.25
+Marin,2015,7.2
+Marin,2017,8.56
+Mariposa,2010,7.695
+Mariposa,2011,7.38
+Mariposa,2012,7.58
+Mariposa,2013,7.74
+Mariposa,2014,7.5
+Mariposa,2015,8.46
+Mariposa,2016,4.12
+Mendocino,2010,7.87
+Mendocino,2011,7.775
+Mendocino,2012,7.665
+Mendocino,2013,8.08
+Mendocino,2014,7.675000000000001
+Mendocino,2015,8.6
+Merced,2010,7.7
+Merced,2011,7.84
+Merced,2012,8.0
+Merced,2013,8.0
+Merced,2014,7.94
+Merced,2015,7.9
+Merced,2016,7.87
+Modoc,2010,7.69
+Modoc,2011,7.995
+Modoc,2012,7.8
+Modoc,2013,8.08
+Modoc,2014,7.9
+Modoc,2015,8.1
+Mono,2010,8.0
+Mono,2011,8.05
+Mono,2012,8.3
+Mono,2013,8.3
+Mono,2014,7.9
+Mono,2015,7.8
+Mono,2016,7.3
+Monterey,2010,7.88
+Monterey,2011,7.85
+Monterey,2012,8.13
+Monterey,2013,7.88
+Monterey,2014,7.825
+Monterey,2015,7.805
+Monterey,2016,7.87
+Monterey,2017,8.03
+Napa,2010,8.02
+Napa,2011,7.71
+Napa,2012,7.63
+Napa,2013,7.805
+Napa,2014,7.4399999999999995
+Napa,2015,8.11
+Napa,2017,8.16
+Nevada,2010,7.8
+Nevada,2011,7.655
+Nevada,2012,7.79
+Nevada,2013,7.734999999999999
+Nevada,2014,7.9
+Nevada,2015,7.83
+Nevada,2016,7.85
+Nevada,2017,7.8
+Orange,2010,7.63
+Orange,2011,7.7
+Orange,2012,7.97
+Orange,2013,8.08
+Orange,2014,7.51
+Orange,2015,7.705
+Orange,2016,7.72
+Orange,2017,8.864999999999998
+Placer,2010,7.59
+Placer,2011,7.5
+Placer,2012,7.505
+Placer,2013,7.81
+Placer,2014,7.67
+Placer,2015,7.6
+Placer,2016,7.7
+Placer,2017,7.8
+Plumas,2010,7.85
+Plumas,2011,7.495
+Plumas,2012,7.7
+Plumas,2013,7.779999999999999
+Plumas,2014,7.7
+Plumas,2015,8.3
+Riverside,2010,8.375
+Riverside,2011,8.0
+Riverside,2012,8.065000000000001
+Riverside,2013,7.86
+Riverside,2014,8.175
+Riverside,2015,8.31
+Riverside,2016,8.25
+Riverside,2017,8.06
+Sacramento,2010,7.46
+Sacramento,2011,7.575
+Sacramento,2012,7.54
+Sacramento,2013,7.54
+Sacramento,2014,7.39
+Sacramento,2015,7.59
+Sacramento,2016,7.54
+Sacramento,2017,7.244999999999999
+San Benito,2010,8.1
+San Benito,2011,8.12
+San Benito,2012,7.984999999999999
+San Benito,2013,7.975
+San Benito,2014,7.87
+San Benito,2015,8.18
+San Benito,2016,7.734999999999999
+San Benito,2017,8.024999999999999
+San Bernardino,2010,8.1
+San Bernardino,2011,7.8
+San Bernardino,2012,8.14
+San Bernardino,2013,7.99
+San Bernardino,2014,8.17
+San Bernardino,2015,8.0
+San Bernardino,2016,8.3
+San Bernardino,2017,8.285
+San Diego,2010,7.89
+San Diego,2011,7.93
+San Diego,2012,7.933
+San Diego,2013,7.9
+San Diego,2014,7.67
+San Diego,2015,7.9350000000000005
+San Diego,2016,8.0
+San Diego,2017,7.73
+San Joaquin,2010,7.505
+San Joaquin,2011,7.44
+San Joaquin,2012,7.7
+San Joaquin,2013,7.470000000000001
+San Joaquin,2014,7.22
+San Joaquin,2015,7.355
+San Joaquin,2016,7.45
+San Luis Obispo,2010,8.03
+San Luis Obispo,2011,8.22
+San Luis Obispo,2012,7.97
+San Luis Obispo,2013,8.0
+San Luis Obispo,2014,8.09
+San Luis Obispo,2015,8.13
+San Luis Obispo,2016,8.0
+San Luis Obispo,2017,8.04
+San Mateo,2010,7.775
+San Mateo,2011,7.54
+San Mateo,2012,7.53
+San Mateo,2013,7.8
+San Mateo,2014,7.84
+San Mateo,2015,7.3
+San Mateo,2016,7.99
+San Mateo,2017,7.32
+Santa Barbara,2010,7.89
+Santa Barbara,2011,8.03
+Santa Barbara,2012,7.9
+Santa Barbara,2013,7.85
+Santa Barbara,2014,7.74
+Santa Barbara,2015,7.88
+Santa Barbara,2016,7.98
+Santa Barbara,2017,8.015
+Santa Barbara,2018,7.82
+Santa Clara,2010,8.06
+Santa Clara,2011,7.92
+Santa Clara,2012,7.79
+Santa Clara,2013,7.734999999999999
+Santa Clara,2014,7.7
+Santa Clara,2015,7.465
+Santa Clara,2016,7.75
+Santa Clara,2017,7.845000000000001
+Santa Cruz,2010,7.92
+Santa Cruz,2011,8.06
+Santa Cruz,2012,7.7
+Santa Cruz,2013,7.8
+Santa Cruz,2014,7.57
+Santa Cruz,2015,7.85
+Santa Cruz,2016,7.975
+Santa Cruz,2017,8.06
+Shasta,2010,7.75
+Shasta,2011,8.0
+Shasta,2012,7.88
+Shasta,2013,7.9
+Shasta,2014,8.0
+Shasta,2015,7.87
+Shasta,2016,7.04
+Sierra,2010,6.75
+Sierra,2011,7.45
+Sierra,2012,6.8
+Sierra,2013,8.0
+Sierra,2014,8.13
+Sierra,2015,8.1
+Siskiyou,2010,8.0
+Siskiyou,2011,8.085
+Siskiyou,2012,8.19
+Siskiyou,2013,8.145
+Siskiyou,2014,8.29
+Siskiyou,2015,8.2
+Siskiyou,2016,8.15
+Solano,2010,7.74
+Solano,2011,7.71
+Solano,2012,7.8
+Solano,2013,7.87
+Solano,2014,7.73
+Solano,2015,7.965
+Solano,2016,8.44
+Solano,2017,7.13
+Sonoma,2010,7.705
+Sonoma,2011,7.925
+Sonoma,2012,7.96
+Sonoma,2013,7.81
+Sonoma,2014,7.665
+Sonoma,2015,7.64
+Sonoma,2016,7.76
+Sonoma,2017,7.76
+Stanislaus,2010,7.71
+Stanislaus,2011,7.51
+Stanislaus,2012,7.86
+Stanislaus,2013,7.9
+Stanislaus,2014,8.004999999999999
+Stanislaus,2015,7.8
+Stanislaus,2016,7.61
+Sutter,2010,7.585
+Sutter,2011,7.72
+Sutter,2012,7.57
+Sutter,2013,7.66
+Sutter,2014,7.88
+Sutter,2015,7.825
+Sutter,2016,7.475
+Sutter,2017,7.395
+Tehama,2010,7.9
+Tehama,2011,7.945
+Tehama,2012,7.8
+Tehama,2013,7.9
+Tehama,2014,7.91
+Tehama,2015,8.2
+Trinity,2010,8.01
+Trinity,2011,8.28
+Trinity,2012,8.26
+Trinity,2013,8.0
+Trinity,2014,7.3
+Trinity,2015,8.4
+Tulare,2010,7.73
+Tulare,2011,7.8149999999999995
+Tulare,2012,8.02
+Tulare,2013,7.53
+Tulare,2014,7.970000000000001
+Tulare,2015,7.125
+Tuolumne,2010,8.03
+Tuolumne,2011,7.555
+Tuolumne,2012,6.7
+Tuolumne,2013,8.07
+Tuolumne,2014,7.49
+Tuolumne,2015,8.39
+Ventura,2010,7.78
+Ventura,2011,8.07
+Ventura,2012,7.9
+Ventura,2013,7.82
+Ventura,2014,7.7
+Ventura,2015,7.76
+Ventura,2016,7.89
+Ventura,2017,7.93
+Yolo,2010,7.73
+Yolo,2011,7.855
+Yolo,2012,7.79
+Yolo,2013,7.865
+Yolo,2014,7.87
+Yolo,2015,7.98
+Yolo,2016,7.51
+Yolo,2017,7.83
+Yuba,2010,7.595
+Yuba,2011,7.859999999999999
+Yuba,2012,7.45
+Yuba,2013,7.77
+Yuba,2014,7.87
+Yuba,2015,7.575
+Yuba,2016,7.5
